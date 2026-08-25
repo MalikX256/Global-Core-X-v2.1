@@ -1,0 +1,6 @@
+{
+  "name": "GlobalCoreX",
+  "description": "Professional worldwide navigation, live location tracking, route recording, AI route suggestions, and emergency assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
